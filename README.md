@@ -2,6 +2,8 @@
 
 # BFG
 
+[![Join the chat at https://gitter.im/direvius/bfg](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/direvius/bfg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 BFG is a modular tool and framework for load generation.
 
 As a tool, BFG is intended to be a load generation module in an automated load testing environment.
